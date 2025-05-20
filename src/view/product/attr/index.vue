@@ -10,7 +10,7 @@ let cateGoryStore = GoryStore()
 const items = ref<Array<Item>>(['primary', 'success', 'info', 'warning', 'danger',
 ])
 let attrList = ref<attrItem[]>()
-let screen = ref<boolean>(true)
+let screen = ref<number>(0)
 let attrForm = reactive<attrItem>({
   id:"",
   attrName:"",
@@ -65,7 +65,7 @@ const saveCallback = async () => {
       type: 'error',
       title: res.message,})
   }
-  screen.value = !screen.value
+  screen.value = screen.value == 1 ? 0 : 1
 }
 
 const restForm = (obj) =>{
@@ -84,7 +84,7 @@ const restForm = (obj) =>{
 }
 const cancelCallback = () => {
   restForm({})
-  screen.value = !screen.value
+  screen.value = screen.value == 1 ? 0 : 1
 }
 
 const attrBlur = (row,index) => {
@@ -115,7 +115,7 @@ const deleteAttrValue = (index) => {
   attrForm.attrValueList.splice(index,1)
 }
 const editButton = (row) => {
-  screen.value = false
+  screen.value = screen.value == 1 ? 0 : 1
   restForm(JSON.parse(JSON.stringify(row)))
 }
 const deletAttrButton = async (id:number) => {
@@ -138,8 +138,8 @@ const deletAttrButton = async (id:number) => {
   <div >
     <category :screen="screen"></category>
     <el-card style="margin:10px">
-      <div v-show="screen">
-        <el-button type="primary" size="default" icon="Plus" :disabled="!cateGoryStore.c3Id" @click="screen = !screen;restForm({})">添加属性平台</el-button>
+      <div v-show="screen == 0">
+        <el-button type="primary" size="default" icon="Plus" :disabled="!cateGoryStore.c3Id" @click="screen == 1 ? 0 : 1;restForm({})">添加属性平台</el-button>
         <el-table border style="margin:10px" :data="attrList">
         <el-table-column align="center" type="index" label="序号" width="100"></el-table-column>
         <el-table-column align="center" label="属性名称" width="120" prop="attrName">
@@ -166,7 +166,7 @@ const deletAttrButton = async (id:number) => {
       </el-table>
       </div>
 
-      <div  v-show="!screen">
+      <div  v-show="screen == 1">
         <el-form>
           <el-form-item label="属性名称" >
             <el-input v-model="attrForm.attrName" style="width: 150px" placeholder="请输入属性名称"></el-input>
