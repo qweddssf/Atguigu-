@@ -1,0 +1,163 @@
+[
+  {
+    "id": 2,
+    "avatar": "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "name": "system",
+    "username": "system",
+    "password": "$2b$10$2R5riCxYXrZJU/AODrCqpOUYPpLwaU1OIyJA2fwtSnj.iSgl81LSm",
+    "desc": "超级管理员",
+    "roles": [
+      "超级管理员",
+      "程序鼓励师"
+    ],
+    "buttons": [
+      "cuser.detail",
+      "cuser.user"
+    ],
+    "routes": [
+      "home"
+    ],
+    "token": "System Token",
+    "createTime": "2022-05-22T14:43:49.963Z",
+    "updateTime": "2025-05-16T02:28:33.845Z"
+  },
+  {
+    "id": 4,
+    "createTime": "2025-05-15T08:31:52.108Z",
+    "updateTime": "2025-05-16T02:33:16.991Z",
+    "username": "哈哈额",
+    "password": "$2b$10$3bVeaqJBxjn8l1ae/ygMDegYGgGJu8BbgHIki12s.qAKP9cxOMJZG",
+    "name": "nb23",
+    "phone": null,
+    "roles": [
+      "程序鼓励师"
+    ],
+    "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.0zh4Xdq7QcSAvEclMibKPwAAAA?rs=1&pid=ImgDetMain",
+    "token": "哈哈哈哈额 Token",
+    "buttons": [],
+    "routes": []
+  },
+  {
+    "id": 5,
+    "createTime": "2025-05-15T11:27:22.880Z",
+    "updateTime": "2025-05-16T02:33:43.284Z",
+    "username": "ik666",
+    "password": "$2b$10$91/oPrbX61kUL3eorKSPJ.H8EAIngaTpbps8Hv7YH994tz4j.e5jK",
+    "name": "ikun",
+    "phone": null,
+    "roles": [
+      "平台管理员"
+    ],
+    "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.0zh4Xdq7QcSAvEclMibKPwAAAA?rs=1&pid=ImgDetMain",
+    "token": "ik666 Token",
+    "buttons": [],
+    "routes": []
+  },
+  {
+    "id": 6,
+    "createTime": "2025-05-15T11:30:54.167Z",
+    "updateTime": "2025-05-16T03:19:31.746Z",
+    "username": "product",
+    "password": "$2b$10$G/DvUDzR4ljf3NgVBbrnr.HgAxERUCsR5aUDaIJ/PpOHpuuoL.DDG",
+    "name": "产品一号",
+    "phone": null,
+    "roles": [
+      "产品"
+    ],
+    "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.0zh4Xdq7QcSAvEclMibKPwAAAA?rs=1&pid=ImgDetMain",
+    "token": "product Token",
+    "buttons": [],
+    "routes": []
+  },
+  {
+    "id": 7,
+    "createTime": "2025-05-16T02:58:58.178Z",
+    "updateTime": "2025-05-16T02:59:16.189Z",
+    "username": "666",
+    "password": "$2b$10$kh4ZYj6y3Q8ByoiasnKSsuBvWDWSgXC7q7KLgXU2ABufdM.0Yl0Em",
+    "name": "ikun2",
+    "phone": null,
+    "roles": [
+      "前端",
+      "后端"
+    ],
+    "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.0zh4Xdq7QcSAvEclMibKPwAAAA?rs=1&pid=ImgDetMain",
+    "token": "666 Token",
+    "buttons": [],
+    "routes": []
+  },
+  {
+    "id": 8,
+    "createTime": "2025-05-16T03:15:00.358Z",
+    "updateTime": "2025-05-16T03:21:27.430Z",
+    "username": "cxk",
+    "password": "$2b$10$lW9u3AH34sQULRqx.LjnNOIy8EWbPyIcnOJBqEhCidxHTdBSdb4/O",
+    "name": "蔡徐坤",
+    "phone": null,
+    "roles": [
+      "前台"
+    ],
+    "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.0zh4Xdq7QcSAvEclMibKPwAAAA?rs=1&pid=ImgDetMain",
+    "token": "cxk Token",
+    "buttons": [],
+    "routes": []
+  },
+  {
+    "id": 9,
+    "createTime": "2025-05-16T03:17:41.536Z",
+    "updateTime": "2025-05-16T03:28:56.486Z",
+    "username": "尚硅谷",
+    "password": "$2b$10$LMST.tAIGbc3yoSNWp4AJ.VJv.i21Awc38rwY15SEYTXEfrhVoLhO",
+    "name": "学前端",
+    "phone": null,
+    "roles": [
+      "前台",
+      "产品",
+      "前端",
+      "后端",
+      "超级管理员",
+      "运营",
+      "测试",
+      "财务",
+      "运维",
+      "销售",
+      "程序鼓励师",
+      "平台管理员",
+      "系统管理员"
+    ],
+    "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.0zh4Xdq7QcSAvEclMibKPwAAAA?rs=1&pid=ImgDetMain",
+    "token": "尚硅谷 Token",
+    "buttons": [],
+    "routes": []
+  },
+  {
+    "id": 12,
+    "createTime": "2025-05-16T04:25:57.225Z",
+    "updateTime": "2025-05-16T04:26:01.966Z",
+    "username": "admin",
+    "password": "$2b$10$eXFrePI4hQHNUQqpRRdGFeqwgxT0.O/8lVAnaUHcJnptewQ2blNbm",
+    "name": "admin",
+    "phone": null,
+    "roles": [
+      "超级管理员"
+    ],
+    "avatar": "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "token": "admin Token",
+    "buttons": [],
+    "routes": []
+  },
+  {
+    "id": 13,
+    "createTime": "2025-05-16T05:32:30.996Z",
+    "updateTime": "2025-05-16T05:32:30.996Z",
+    "username": "ikun2号",
+    "password": "$2b$10$F4elIUZ7VwRs9h4A2lYcKeoF7V816SlKfRrxMd3uzYFJY//obX6vC",
+    "name": "黑粉",
+    "phone": null,
+    "roles": [],
+    "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.0zh4Xdq7QcSAvEclMibKPwAAAA?rs=1&pid=ImgDetMain",
+    "token": "ikun2号 Token",
+    "buttons": [],
+    "routes": []
+  }
+]

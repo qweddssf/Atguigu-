@@ -1,0 +1,5483 @@
+[
+  {
+    "id": 100,
+    "spuName": "Adidas",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 1,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 101,
+    "spuName": "Nike",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 1,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 102,
+    "spuName": "三星",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 1,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 103,
+    "spuName": "Philips",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 1,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 200,
+    "spuName": "Microsoft",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 2,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 201,
+    "spuName": "Lenovo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 2,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 202,
+    "spuName": "Acer",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 2,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 203,
+    "spuName": "Adidas",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 2,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 300,
+    "spuName": "Canon",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 3,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 301,
+    "spuName": "华为",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 3,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 302,
+    "spuName": "Panasonic",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 3,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 400,
+    "spuName": "Apple",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 4,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 401,
+    "spuName": "Acer",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 4,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 402,
+    "spuName": "华为",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 4,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 403,
+    "spuName": "OPPO",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 4,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 500,
+    "spuName": "Canon",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 5,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 501,
+    "spuName": "Sony",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 5,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 502,
+    "spuName": "Apple",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 5,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 503,
+    "spuName": "Acer",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 5,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 504,
+    "spuName": "Asus",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 5,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 600,
+    "spuName": "Dell",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 6,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 601,
+    "spuName": "Adidas",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 6,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 602,
+    "spuName": "Philips",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 6,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 603,
+    "spuName": "Panasonic",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 6,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 604,
+    "spuName": "Asus",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 6,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 700,
+    "spuName": "Panasonic",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 7,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 701,
+    "spuName": "Canon",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 7,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 702,
+    "spuName": "Nike",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 7,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 703,
+    "spuName": "Apple",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 7,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 704,
+    "spuName": "Adidas",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 7,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 800,
+    "spuName": "Lenovo",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 8,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 801,
+    "spuName": "Vivo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 8,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 802,
+    "spuName": "Microsoft",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 8,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 803,
+    "spuName": "Adidas",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 8,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 804,
+    "spuName": "Lenovo",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 8,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 900,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 9,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 901,
+    "spuName": "Lenovo",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 9,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 902,
+    "spuName": "Sony",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 9,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 903,
+    "spuName": "Sony",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 9,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1000,
+    "spuName": "OPPO",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 10,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1001,
+    "spuName": "OPPO",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 10,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1002,
+    "spuName": "Sony",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 10,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1003,
+    "spuName": "Microsoft",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 10,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1004,
+    "spuName": "Microsoft",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 10,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1100,
+    "spuName": "HP",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 11,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1101,
+    "spuName": "Vivo",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 11,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1102,
+    "spuName": "Acer",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 11,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1103,
+    "spuName": "Toshiba",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 11,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1104,
+    "spuName": "Vivo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 11,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1200,
+    "spuName": "Vivo",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 12,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1201,
+    "spuName": "Canon",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 12,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1202,
+    "spuName": "Microsoft",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 12,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1203,
+    "spuName": "小米",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 12,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1300,
+    "spuName": "OPPO",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 13,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1301,
+    "spuName": "Canon",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 13,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1302,
+    "spuName": "LG",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 13,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1303,
+    "spuName": "Canon",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 13,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1400,
+    "spuName": "Acer",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 14,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1401,
+    "spuName": "Acer",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 14,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1402,
+    "spuName": "Nike",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 14,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1403,
+    "spuName": "Vivo",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 14,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1500,
+    "spuName": "Asus",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 15,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1501,
+    "spuName": "Canon",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 15,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1502,
+    "spuName": "Apple",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 15,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1503,
+    "spuName": "Nike",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 15,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1504,
+    "spuName": "Sony",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 15,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1600,
+    "spuName": "Canon",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 16,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1601,
+    "spuName": "小米",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 16,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1602,
+    "spuName": "华为",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 16,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1700,
+    "spuName": "Toshiba",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 17,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1701,
+    "spuName": "Asus",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 17,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1702,
+    "spuName": "Dell",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 17,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1703,
+    "spuName": "LG",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 17,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1800,
+    "spuName": "Acer",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 18,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1801,
+    "spuName": "Microsoft",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 18,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1802,
+    "spuName": "Microsoft",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 18,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1803,
+    "spuName": "Sony",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 18,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1804,
+    "spuName": "Lenovo",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 18,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1900,
+    "spuName": "Vivo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 19,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1901,
+    "spuName": "Philips",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 19,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1902,
+    "spuName": "Apple",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 19,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 1903,
+    "spuName": "Acer",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 19,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2000,
+    "spuName": "Adidas",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 20,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2001,
+    "spuName": "Nike",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 20,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2002,
+    "spuName": "Apple",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 20,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2003,
+    "spuName": "Lenovo",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 20,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2100,
+    "spuName": "LG",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 21,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2101,
+    "spuName": "Asus",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 21,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2102,
+    "spuName": "Lenovo",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 21,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2103,
+    "spuName": "Lenovo",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 21,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2200,
+    "spuName": "华为",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 22,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2201,
+    "spuName": "Nike",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 22,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2202,
+    "spuName": "Sony",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 22,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2203,
+    "spuName": "LG",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 22,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2300,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 23,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2301,
+    "spuName": "HP",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 23,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2302,
+    "spuName": "Microsoft",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 23,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2303,
+    "spuName": "Vivo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 23,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2304,
+    "spuName": "Panasonic",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 23,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2400,
+    "spuName": "Lenovo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 24,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2401,
+    "spuName": "Canon",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 24,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2402,
+    "spuName": "Asus",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 24,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2403,
+    "spuName": "Nike",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 24,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2500,
+    "spuName": "Lenovo",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 25,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2501,
+    "spuName": "Toshiba",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 25,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2502,
+    "spuName": "Lenovo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 25,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2600,
+    "spuName": "Panasonic",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 26,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2601,
+    "spuName": "Adidas",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 26,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2602,
+    "spuName": "Acer",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 26,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2603,
+    "spuName": "Asus",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 26,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2700,
+    "spuName": "Philips",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 27,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2701,
+    "spuName": "Dell",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 27,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2702,
+    "spuName": "华为",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 27,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2703,
+    "spuName": "Vivo",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 27,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2800,
+    "spuName": "Dell",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 28,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2801,
+    "spuName": "Dell",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 28,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2802,
+    "spuName": "三星",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 28,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2803,
+    "spuName": "Canon",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 28,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2804,
+    "spuName": "三星",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 28,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2900,
+    "spuName": "Asus",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 29,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2901,
+    "spuName": "Acer",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 29,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 2902,
+    "spuName": "Lenovo",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 29,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3000,
+    "spuName": "Apple",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 30,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3001,
+    "spuName": "Sony",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 30,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3002,
+    "spuName": "小米",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 30,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3003,
+    "spuName": "Dell",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 30,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3004,
+    "spuName": "小米",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 30,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3100,
+    "spuName": "OPPO",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 31,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3101,
+    "spuName": "华为",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 31,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3102,
+    "spuName": "Asus",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 31,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3103,
+    "spuName": "Dell",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 31,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3104,
+    "spuName": "OPPO",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 31,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3200,
+    "spuName": "三星",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 32,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3201,
+    "spuName": "Panasonic",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 32,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3202,
+    "spuName": "Asus",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 32,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3203,
+    "spuName": "Adidas",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 32,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3300,
+    "spuName": "Nike",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 33,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3301,
+    "spuName": "Adidas",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 33,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3302,
+    "spuName": "OPPO",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 33,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3400,
+    "spuName": "Philips",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 34,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3401,
+    "spuName": "Sony",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 34,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3402,
+    "spuName": "Sony",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 34,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3403,
+    "spuName": "Lenovo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 34,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3500,
+    "spuName": "Nike",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 35,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3501,
+    "spuName": "Philips",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 35,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3502,
+    "spuName": "小米",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 35,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3503,
+    "spuName": "Microsoft",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 35,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3600,
+    "spuName": "Microsoft",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 36,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3601,
+    "spuName": "Dell",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 36,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3602,
+    "spuName": "OPPO",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 36,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3700,
+    "spuName": "Acer",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 37,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3701,
+    "spuName": "华为",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 37,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3702,
+    "spuName": "三星",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 37,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3800,
+    "spuName": "Canon",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 38,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3801,
+    "spuName": "Microsoft",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 38,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3802,
+    "spuName": "三星",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 38,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3803,
+    "spuName": "Panasonic",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 38,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3900,
+    "spuName": "Apple",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 39,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3901,
+    "spuName": "OPPO",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 39,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 3902,
+    "spuName": "Acer",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 39,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4000,
+    "spuName": "Apple",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 40,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4001,
+    "spuName": "Sony",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 40,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4002,
+    "spuName": "Philips",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 40,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4003,
+    "spuName": "Panasonic",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 40,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4004,
+    "spuName": "Toshiba",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 40,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4100,
+    "spuName": "Panasonic",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 41,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4101,
+    "spuName": "小米",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 41,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4102,
+    "spuName": "OPPO",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 41,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4103,
+    "spuName": "华为",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 41,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4104,
+    "spuName": "Nike",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 41,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4200,
+    "spuName": "Canon",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 42,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4201,
+    "spuName": "Sony",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 42,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4202,
+    "spuName": "小米",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 42,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4300,
+    "spuName": "Canon",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 43,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4301,
+    "spuName": "HP",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 43,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4302,
+    "spuName": "Panasonic",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 43,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4400,
+    "spuName": "Dell",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 44,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4401,
+    "spuName": "Philips",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 44,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4402,
+    "spuName": "Microsoft",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 44,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4403,
+    "spuName": "OPPO",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 44,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4500,
+    "spuName": "HP",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 45,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4501,
+    "spuName": "华为",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 45,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4502,
+    "spuName": "Asus",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 45,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4503,
+    "spuName": "Nike",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 45,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4504,
+    "spuName": "HP",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 45,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4600,
+    "spuName": "Apple",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 46,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4601,
+    "spuName": "Vivo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 46,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4602,
+    "spuName": "Adidas",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 46,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4603,
+    "spuName": "HP",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 46,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4604,
+    "spuName": "Acer",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 46,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4700,
+    "spuName": "Vivo",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 47,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4701,
+    "spuName": "Toshiba",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 47,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4702,
+    "spuName": "OPPO",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 47,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4703,
+    "spuName": "Lenovo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 47,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4800,
+    "spuName": "Apple",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 48,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4801,
+    "spuName": "Panasonic",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 48,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4802,
+    "spuName": "Philips",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 48,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4803,
+    "spuName": "Sony",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 48,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4804,
+    "spuName": "Dell",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 48,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4900,
+    "spuName": "LG",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 49,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4901,
+    "spuName": "Microsoft",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 49,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4902,
+    "spuName": "Philips",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 49,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4903,
+    "spuName": "三星",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 49,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 4904,
+    "spuName": "Lenovo",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 49,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5000,
+    "spuName": "Philips",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 50,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5001,
+    "spuName": "Toshiba",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 50,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5002,
+    "spuName": "Canon",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 50,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5003,
+    "spuName": "OPPO",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 50,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5004,
+    "spuName": "Canon",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 50,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5100,
+    "spuName": "LG",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 51,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5101,
+    "spuName": "Asus",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 51,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5102,
+    "spuName": "Adidas",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 51,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5103,
+    "spuName": "HP",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 51,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5200,
+    "spuName": "Lenovo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 52,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5201,
+    "spuName": "Philips",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 52,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5202,
+    "spuName": "华为",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 52,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5203,
+    "spuName": "Vivo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 52,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5204,
+    "spuName": "Apple",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 52,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5300,
+    "spuName": "LG",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 53,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5301,
+    "spuName": "Sony",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 53,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5302,
+    "spuName": "华为",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 53,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5303,
+    "spuName": "Adidas",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 53,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5400,
+    "spuName": "Microsoft",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 54,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5401,
+    "spuName": "Apple",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 54,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5402,
+    "spuName": "HP",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 54,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5500,
+    "spuName": "Canon",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 55,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5501,
+    "spuName": "Microsoft",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 55,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5502,
+    "spuName": "Apple",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 55,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5503,
+    "spuName": "Vivo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 55,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5504,
+    "spuName": "Sony",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 55,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5600,
+    "spuName": "Asus",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 56,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5601,
+    "spuName": "Panasonic",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 56,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5602,
+    "spuName": "Lenovo",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 56,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5603,
+    "spuName": "Acer",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 56,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5700,
+    "spuName": "Asus",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 57,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5701,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 57,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5702,
+    "spuName": "Asus",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 57,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5800,
+    "spuName": "Panasonic",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 58,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5801,
+    "spuName": "Philips",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 58,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5802,
+    "spuName": "Panasonic",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 58,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5803,
+    "spuName": "Nike",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 58,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5804,
+    "spuName": "Toshiba",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 58,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5900,
+    "spuName": "小米",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 59,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5901,
+    "spuName": "Acer",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 59,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 5902,
+    "spuName": "Sony",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 59,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6000,
+    "spuName": "Sony",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 60,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6001,
+    "spuName": "Acer",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 60,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6002,
+    "spuName": "OPPO",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 60,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6003,
+    "spuName": "Nike",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 60,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6100,
+    "spuName": "Dell",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 61,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6101,
+    "spuName": "HP",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 61,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6102,
+    "spuName": "Acer",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 61,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6103,
+    "spuName": "Toshiba",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 61,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6200,
+    "spuName": "Canon",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 62,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6201,
+    "spuName": "小米",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 62,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6202,
+    "spuName": "Lenovo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 62,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6300,
+    "spuName": "三星",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 63,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6301,
+    "spuName": "Sony",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 63,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6302,
+    "spuName": "Sony",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 63,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6303,
+    "spuName": "HP",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 63,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6304,
+    "spuName": "Adidas",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 63,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6400,
+    "spuName": "Microsoft",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 64,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6401,
+    "spuName": "Sony",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 64,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6402,
+    "spuName": "LG",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 64,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6403,
+    "spuName": "小米",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 64,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6404,
+    "spuName": "Apple",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 64,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6500,
+    "spuName": "Apple",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 65,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6501,
+    "spuName": "华为",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 65,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6502,
+    "spuName": "Panasonic",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 65,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6503,
+    "spuName": "Adidas",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 65,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6600,
+    "spuName": "Panasonic",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 66,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6601,
+    "spuName": "Canon",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 66,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6602,
+    "spuName": "HP",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 66,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6603,
+    "spuName": "Sony",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 66,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6700,
+    "spuName": "Lenovo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 67,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6701,
+    "spuName": "小米",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 67,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6702,
+    "spuName": "Lenovo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 67,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6703,
+    "spuName": "Dell",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 67,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6704,
+    "spuName": "Philips",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 67,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6800,
+    "spuName": "三星",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 68,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6801,
+    "spuName": "Canon",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 68,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6802,
+    "spuName": "Panasonic",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 68,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6900,
+    "spuName": "HP",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 69,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6901,
+    "spuName": "LG",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 69,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6902,
+    "spuName": "Vivo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 69,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 6903,
+    "spuName": "Panasonic",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 69,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7000,
+    "spuName": "Canon",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 70,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7001,
+    "spuName": "Acer",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 70,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7002,
+    "spuName": "Apple",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 70,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7003,
+    "spuName": "Nike",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 70,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7100,
+    "spuName": "HP",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 71,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7101,
+    "spuName": "小米",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 71,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7102,
+    "spuName": "Nike",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 71,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7200,
+    "spuName": "Canon",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 72,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7201,
+    "spuName": "Vivo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 72,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7202,
+    "spuName": "Nike",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 72,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7300,
+    "spuName": "Lenovo",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 73,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7301,
+    "spuName": "Asus",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 73,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7302,
+    "spuName": "Adidas",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 73,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7303,
+    "spuName": "Apple",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 73,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7400,
+    "spuName": "Canon",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 74,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7401,
+    "spuName": "Canon",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 74,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7402,
+    "spuName": "Dell",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 74,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7403,
+    "spuName": "Toshiba",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 74,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7404,
+    "spuName": "Toshiba",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 74,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7500,
+    "spuName": "Sony",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 75,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7501,
+    "spuName": "Lenovo",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 75,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7502,
+    "spuName": "Sony",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 75,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7600,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 76,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7601,
+    "spuName": "HP",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 76,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7602,
+    "spuName": "小米",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 76,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7603,
+    "spuName": "Microsoft",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 76,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7700,
+    "spuName": "Dell",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 77,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7701,
+    "spuName": "华为",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 77,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7702,
+    "spuName": "Apple",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 77,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7800,
+    "spuName": "Acer",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 78,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7801,
+    "spuName": "Dell",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 78,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7802,
+    "spuName": "OPPO",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 78,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7803,
+    "spuName": "Sony",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 78,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7900,
+    "spuName": "三星",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 79,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7901,
+    "spuName": "OPPO",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 79,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7902,
+    "spuName": "小米",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 79,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 7903,
+    "spuName": "华为",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 79,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8000,
+    "spuName": "Sony",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 80,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8001,
+    "spuName": "Dell",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 80,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8002,
+    "spuName": "华为",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 80,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8100,
+    "spuName": "Toshiba",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 81,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8101,
+    "spuName": "Acer",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 81,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8102,
+    "spuName": "OPPO",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 81,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8200,
+    "spuName": "Apple",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 82,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8201,
+    "spuName": "Dell",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 82,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8202,
+    "spuName": "LG",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 82,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8203,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 82,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8300,
+    "spuName": "小米",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 83,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8301,
+    "spuName": "华为",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 83,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8302,
+    "spuName": "LG",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 83,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8303,
+    "spuName": "HP",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 83,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8304,
+    "spuName": "Dell",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 83,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8400,
+    "spuName": "Lenovo",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 84,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8401,
+    "spuName": "Apple",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 84,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8402,
+    "spuName": "HP",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 84,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8500,
+    "spuName": "LG",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 85,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8501,
+    "spuName": "Vivo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 85,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8502,
+    "spuName": "Asus",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 85,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8503,
+    "spuName": "Dell",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 85,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8600,
+    "spuName": "华为",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 86,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8601,
+    "spuName": "Acer",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 86,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8602,
+    "spuName": "Sony",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 86,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8700,
+    "spuName": "Acer",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 87,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8701,
+    "spuName": "三星",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 87,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8702,
+    "spuName": "Adidas",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 87,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8703,
+    "spuName": "Dell",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 87,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8704,
+    "spuName": "Philips",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 87,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8800,
+    "spuName": "Lenovo",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 88,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8801,
+    "spuName": "Asus",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 88,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8802,
+    "spuName": "Microsoft",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 88,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8803,
+    "spuName": "HP",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 88,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8804,
+    "spuName": "Canon",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 88,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8900,
+    "spuName": "小米",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 89,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8901,
+    "spuName": "Vivo",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 89,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8902,
+    "spuName": "Apple",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 89,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 8903,
+    "spuName": "Dell",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 89,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9000,
+    "spuName": "Dell",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 90,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9001,
+    "spuName": "Philips",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 90,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9002,
+    "spuName": "Dell",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 90,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9100,
+    "spuName": "HP",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 91,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9101,
+    "spuName": "三星",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 91,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9102,
+    "spuName": "Toshiba",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 91,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9200,
+    "spuName": "Sony",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 92,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9201,
+    "spuName": "Toshiba",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 92,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9202,
+    "spuName": "Lenovo",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 92,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9203,
+    "spuName": "Philips",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 92,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9300,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 93,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9301,
+    "spuName": "三星",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 93,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9302,
+    "spuName": "三星",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 93,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9303,
+    "spuName": "Asus",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 93,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9400,
+    "spuName": "Dell",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 94,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9401,
+    "spuName": "小米",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 94,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9402,
+    "spuName": "Lenovo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 94,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9403,
+    "spuName": "Panasonic",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 94,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9500,
+    "spuName": "Dell",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 95,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9501,
+    "spuName": "Apple",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 95,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9502,
+    "spuName": "Dell",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 95,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9503,
+    "spuName": "HP",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 95,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9600,
+    "spuName": "Adidas",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 96,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9601,
+    "spuName": "LG",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 96,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9602,
+    "spuName": "Philips",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 96,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9603,
+    "spuName": "Asus",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 96,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9604,
+    "spuName": "Dell",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 96,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9700,
+    "spuName": "三星",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 97,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9701,
+    "spuName": "Nike",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 97,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9702,
+    "spuName": "华为",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 97,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9800,
+    "spuName": "小米",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 98,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9801,
+    "spuName": "Adidas",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 98,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9802,
+    "spuName": "Toshiba",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 98,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9900,
+    "spuName": "Asus",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 99,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9901,
+    "spuName": "OPPO",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 99,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 9902,
+    "spuName": "Lenovo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 99,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10000,
+    "spuName": "Acer",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 100,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10001,
+    "spuName": "Apple",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 100,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10002,
+    "spuName": "Philips",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 100,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10003,
+    "spuName": "Nike",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 100,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10100,
+    "spuName": "Panasonic",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 101,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10101,
+    "spuName": "Philips",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 101,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10102,
+    "spuName": "Nike",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 101,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10103,
+    "spuName": "Acer",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 101,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10200,
+    "spuName": "Microsoft",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 102,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10201,
+    "spuName": "三星",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 102,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10202,
+    "spuName": "OPPO",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 102,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10203,
+    "spuName": "Nike",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 102,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10204,
+    "spuName": "三星",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 102,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10300,
+    "spuName": "Vivo",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 103,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10301,
+    "spuName": "Canon",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 103,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10302,
+    "spuName": "Asus",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 103,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10303,
+    "spuName": "Acer",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 103,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10304,
+    "spuName": "Acer",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 103,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10400,
+    "spuName": "Nike",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 104,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10401,
+    "spuName": "小米",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 104,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10402,
+    "spuName": "Toshiba",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 104,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10403,
+    "spuName": "Philips",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 104,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10500,
+    "spuName": "Acer",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 105,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10501,
+    "spuName": "三星",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 105,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10502,
+    "spuName": "Acer",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 105,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10503,
+    "spuName": "Dell",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 105,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10600,
+    "spuName": "华为",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 106,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10601,
+    "spuName": "Toshiba",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 106,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10602,
+    "spuName": "Sony",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 106,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10700,
+    "spuName": "Microsoft",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 107,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10701,
+    "spuName": "Canon",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 107,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10702,
+    "spuName": "Dell",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 107,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10800,
+    "spuName": "Adidas",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 108,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10801,
+    "spuName": "Canon",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 108,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10802,
+    "spuName": "Panasonic",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 108,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10803,
+    "spuName": "Nike",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 108,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10804,
+    "spuName": "Dell",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 108,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10900,
+    "spuName": "Adidas",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 109,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10901,
+    "spuName": "LG",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 109,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10902,
+    "spuName": "Apple",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 109,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10903,
+    "spuName": "Acer",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 109,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 10904,
+    "spuName": "HP",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 109,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11000,
+    "spuName": "Acer",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 110,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11001,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 110,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11002,
+    "spuName": "Acer",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 110,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11003,
+    "spuName": "Toshiba",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 110,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11100,
+    "spuName": "Microsoft",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 111,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11101,
+    "spuName": "Sony",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 111,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11102,
+    "spuName": "Dell",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 111,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11103,
+    "spuName": "Canon",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 111,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11200,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 112,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11201,
+    "spuName": "Sony",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 112,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11202,
+    "spuName": "HP",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 112,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11203,
+    "spuName": "Asus",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 112,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11300,
+    "spuName": "Asus",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 113,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11301,
+    "spuName": "HP",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 113,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11302,
+    "spuName": "Asus",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 113,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11303,
+    "spuName": "Vivo",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 113,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11400,
+    "spuName": "Canon",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 114,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11401,
+    "spuName": "Vivo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 114,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11402,
+    "spuName": "华为",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 114,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11500,
+    "spuName": "Vivo",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 115,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11501,
+    "spuName": "Lenovo",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 115,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11502,
+    "spuName": "Vivo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 115,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11600,
+    "spuName": "Lenovo",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 116,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11601,
+    "spuName": "Canon",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 116,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11602,
+    "spuName": "HP",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 116,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11603,
+    "spuName": "HP",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 116,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11700,
+    "spuName": "小米",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 117,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11701,
+    "spuName": "Panasonic",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 117,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11702,
+    "spuName": "Lenovo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 117,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11703,
+    "spuName": "LG",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 117,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11704,
+    "spuName": "Acer",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 117,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11800,
+    "spuName": "LG",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 118,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11801,
+    "spuName": "Dell",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 118,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11802,
+    "spuName": "Lenovo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 118,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11900,
+    "spuName": "Vivo",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 119,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11901,
+    "spuName": "Lenovo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 119,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11902,
+    "spuName": "Microsoft",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 119,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11903,
+    "spuName": "OPPO",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 119,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 11904,
+    "spuName": "Canon",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 119,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12000,
+    "spuName": "LG",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 120,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12001,
+    "spuName": "OPPO",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 120,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12002,
+    "spuName": "Toshiba",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 120,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12003,
+    "spuName": "Nike",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 120,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12100,
+    "spuName": "Panasonic",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 121,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12101,
+    "spuName": "三星",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 121,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12102,
+    "spuName": "Asus",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 121,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12103,
+    "spuName": "Dell",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 121,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12200,
+    "spuName": "Canon",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 122,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12201,
+    "spuName": "Acer",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 122,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12202,
+    "spuName": "华为",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 122,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12203,
+    "spuName": "LG",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 122,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12300,
+    "spuName": "Vivo",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 123,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12301,
+    "spuName": "Adidas",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 123,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12302,
+    "spuName": "Nike",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 123,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12303,
+    "spuName": "Sony",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 123,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12400,
+    "spuName": "Sony",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 124,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12401,
+    "spuName": "Panasonic",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 124,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12402,
+    "spuName": "华为",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 124,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12403,
+    "spuName": "Asus",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 124,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12404,
+    "spuName": "Philips",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 124,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12500,
+    "spuName": "Nike",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 125,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12501,
+    "spuName": "Panasonic",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 125,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12502,
+    "spuName": "小米",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 125,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12503,
+    "spuName": "Microsoft",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 125,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12504,
+    "spuName": "Philips",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 125,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12600,
+    "spuName": "Lenovo",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 126,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12601,
+    "spuName": "Acer",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 126,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12602,
+    "spuName": "Microsoft",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 126,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12700,
+    "spuName": "Asus",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 127,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12701,
+    "spuName": "Nike",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 127,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12702,
+    "spuName": "Adidas",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 127,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12703,
+    "spuName": "OPPO",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 127,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12704,
+    "spuName": "HP",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 127,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12800,
+    "spuName": "Canon",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 128,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12801,
+    "spuName": "Asus",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 128,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12802,
+    "spuName": "Lenovo",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 128,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12803,
+    "spuName": "OPPO",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 128,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12900,
+    "spuName": "HP",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 129,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12901,
+    "spuName": "Panasonic",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 129,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 12902,
+    "spuName": "LG",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 129,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13000,
+    "spuName": "Adidas",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 130,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13001,
+    "spuName": "Acer",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 130,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13002,
+    "spuName": "Acer",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 130,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13100,
+    "spuName": "OPPO",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 131,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13101,
+    "spuName": "Toshiba",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 131,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13102,
+    "spuName": "Vivo",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 131,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13103,
+    "spuName": "Toshiba",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 131,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13200,
+    "spuName": "Acer",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 132,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13201,
+    "spuName": "Dell",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 132,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13202,
+    "spuName": "OPPO",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 132,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13300,
+    "spuName": "Toshiba",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 133,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13301,
+    "spuName": "Canon",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 133,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13302,
+    "spuName": "Nike",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 133,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13303,
+    "spuName": "Asus",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 133,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13304,
+    "spuName": "Adidas",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 133,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13400,
+    "spuName": "Canon",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 134,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13401,
+    "spuName": "Dell",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 134,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13402,
+    "spuName": "LG",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 134,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13500,
+    "spuName": "小米",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 135,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13501,
+    "spuName": "Sony",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 135,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13502,
+    "spuName": "LG",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 135,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13503,
+    "spuName": "Dell",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 135,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13600,
+    "spuName": "Vivo",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 136,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13601,
+    "spuName": "Philips",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 136,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13602,
+    "spuName": "小米",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 136,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13603,
+    "spuName": "Asus",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 136,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13700,
+    "spuName": "OPPO",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 137,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13701,
+    "spuName": "LG",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 137,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13702,
+    "spuName": "Adidas",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 137,
+    "tmId": 7,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13703,
+    "spuName": "Canon",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 137,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13800,
+    "spuName": "小米",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 138,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13801,
+    "spuName": "华为",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 138,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13802,
+    "spuName": "Asus",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 138,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13900,
+    "spuName": "Panasonic",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 139,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13901,
+    "spuName": "Lenovo",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 139,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 13902,
+    "spuName": "Sony",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 139,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14000,
+    "spuName": "Sony",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 140,
+    "tmId": 8,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14001,
+    "spuName": "Dell",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 140,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14002,
+    "spuName": "HP",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 140,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14003,
+    "spuName": "Canon",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 140,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14100,
+    "spuName": "OPPO",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 141,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14101,
+    "spuName": "Toshiba",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 141,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14102,
+    "spuName": "Canon",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 141,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14103,
+    "spuName": "Apple",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 141,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14200,
+    "spuName": "华为",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 142,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14201,
+    "spuName": "Vivo",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 142,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14202,
+    "spuName": "Philips",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 142,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14203,
+    "spuName": "LG",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 142,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14300,
+    "spuName": "Panasonic",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 143,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14301,
+    "spuName": "Panasonic",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 143,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14302,
+    "spuName": "Lenovo",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 143,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14303,
+    "spuName": "小米",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 143,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14304,
+    "spuName": "LG",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 143,
+    "tmId": 15,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14400,
+    "spuName": "HP",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 144,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14401,
+    "spuName": "Microsoft",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 144,
+    "tmId": 9,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14402,
+    "spuName": "Dell",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 144,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14403,
+    "spuName": "Acer",
+    "description": "可选16G【M2芯片】Apple/苹果 MacBook Pro 13英寸笔记本电脑剪辑设计大学生办公专用正品分期24G",
+    "category3Id": 144,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14404,
+    "spuName": "Lenovo",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 144,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14500,
+    "spuName": "Nike",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 145,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14501,
+    "spuName": "Philips",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 145,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14502,
+    "spuName": "华为",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 145,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14503,
+    "spuName": "Vivo",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 145,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14600,
+    "spuName": "Panasonic",
+    "description": "【至高立省300元 赠数据线】vivo Y78新品全面屏游戏拍照学生5G智能手机大电池官方旗舰店老人机Y78+ Y77",
+    "category3Id": 146,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14601,
+    "spuName": "Acer",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 146,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14602,
+    "spuName": "Panasonic",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 146,
+    "tmId": 16,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14603,
+    "spuName": "Philips",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 146,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14604,
+    "spuName": "Apple",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 146,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14700,
+    "spuName": "Nike",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 147,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14701,
+    "spuName": "小米",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 147,
+    "tmId": 3,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14702,
+    "spuName": "Vivo",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 147,
+    "tmId": 5,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14703,
+    "spuName": "HP",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 147,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14704,
+    "spuName": "Canon",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 147,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14800,
+    "spuName": "Acer",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 148,
+    "tmId": 14,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14801,
+    "spuName": "OPPO",
+    "description": "小米电视 Redmi A43 高清智能电视 43英寸液晶平板电视L43RA-RA",
+    "category3Id": 148,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14802,
+    "spuName": "Lenovo",
+    "description": "人体工学椅电脑椅家用宿舍学生学习椅舒适久坐办公座椅转椅书桌椅",
+    "category3Id": 148,
+    "tmId": 10,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14803,
+    "spuName": "华为",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 148,
+    "tmId": 2,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14900,
+    "spuName": "Toshiba",
+    "description": "【新品享壕礼】vivo iQOO Z8x手机官方旗舰店新品上市官网正品学生大电池大内存手机iqoo z7 z7x",
+    "category3Id": 149,
+    "tmId": 18,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14901,
+    "spuName": "Philips",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 149,
+    "tmId": 17,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14902,
+    "spuName": "HP",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 149,
+    "tmId": 12,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 14903,
+    "spuName": "Asus",
+    "description": "华为笔记本电脑MateBook X Pro 2023 13代酷睿版锐炬显卡14.2英寸3.1K原色触控屏超轻薄旗舰微绒典藏1943",
+    "category3Id": 149,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15000,
+    "spuName": "Apple",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 150,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15001,
+    "spuName": "Nike",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 150,
+    "tmId": 6,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15002,
+    "spuName": "Canon",
+    "description": "【2023新品官方旗舰正品】DERE戴睿笔记本电脑二合一新Surface Pro13平板商务办公学生教育超轻薄便携电脑本",
+    "category3Id": 150,
+    "tmId": 19,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15003,
+    "spuName": "三星",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 150,
+    "tmId": 1,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15100,
+    "spuName": "Asus",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 151,
+    "tmId": 13,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15101,
+    "spuName": "Dell",
+    "description": "台式电脑机械硬盘SATA串口320G 500G 1TB 2T 3TB 4TB支持游戏监控",
+    "category3Id": 151,
+    "tmId": 11,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15102,
+    "spuName": "Apple",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 151,
+    "tmId": 0,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15103,
+    "spuName": "OPPO",
+    "description": "鼠标有线USB静音无声家用办公台式笔记本电脑家用商务电竞男",
+    "category3Id": 151,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  },
+  {
+    "id": 15104,
+    "spuName": "OPPO",
+    "description": "Sony/索尼 XR-55A80EK 55英寸4K超清认知智能OLED安卓摄像头电视",
+    "category3Id": 151,
+    "tmId": 4,
+    "spuSaleAttrList": null,
+    "spuImageList": null
+  }
+]

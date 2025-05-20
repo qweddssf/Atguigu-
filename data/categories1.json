@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "图书/音像/电子书刊"
+  },
+  {
+    "id": 2,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "手机"
+  },
+  {
+    "id": 3,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "家用电器"
+  },
+  {
+    "id": 4,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "数码"
+  },
+  {
+    "id": 5,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "家居家装"
+  },
+  {
+    "id": 6,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "电脑办公"
+  },
+  {
+    "id": 7,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "厨具"
+  },
+  {
+    "id": 8,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "个护化妆"
+  },
+  {
+    "id": 9,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "服饰内衣"
+  },
+  {
+    "id": 10,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "钟表"
+  },
+  {
+    "id": 11,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "鞋靴"
+  },
+  {
+    "id": 12,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "母婴"
+  },
+  {
+    "id": 13,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "礼品箱包"
+  },
+  {
+    "id": 14,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "食品饮料/保健食品"
+  },
+  {
+    "id": 15,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "珠宝"
+  },
+  {
+    "id": 16,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "汽车用品"
+  },
+  {
+    "id": 17,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "运动健康"
+  },
+  {
+    "id": 18,
+    "createTime": "2025-05-11T08:55:30.343Z",
+    "updateTime": null,
+    "name": "测试一级分类"
+  }
+]

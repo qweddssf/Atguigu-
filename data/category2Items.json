@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "电子书",
+    "category1Id": 1
+  },
+  {
+    "id": 2,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "网络文学",
+    "category1Id": 1
+  },
+  {
+    "id": 3,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "音像",
+    "category1Id": 1
+  },
+  {
+    "id": 4,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "英文原版",
+    "category1Id": 1
+  },
+  {
+    "id": 5,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "杂志",
+    "category1Id": 1
+  },
+  {
+    "id": 6,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "华为",
+    "category1Id": 2
+  },
+  {
+    "id": 7,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "小米",
+    "category1Id": 2
+  },
+  {
+    "id": 8,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "苹果",
+    "category1Id": 2
+  },
+  {
+    "id": 9,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "三星",
+    "category1Id": 2
+  },
+  {
+    "id": 10,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "OPPO",
+    "category1Id": 2
+  },
+  {
+    "id": 11,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "VIVO",
+    "category1Id": 2
+  },
+  {
+    "id": 12,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "电视",
+    "category1Id": 3
+  },
+  {
+    "id": 13,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "空调",
+    "category1Id": 3
+  },
+  {
+    "id": 14,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "洗衣机",
+    "category1Id": 3
+  },
+  {
+    "id": 15,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "冰箱",
+    "category1Id": 3
+  },
+  {
+    "id": 16,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "厨卫大电",
+    "category1Id": 3
+  },
+  {
+    "id": 17,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "相机",
+    "category1Id": 4
+  },
+  {
+    "id": 18,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "摄像机",
+    "category1Id": 4
+  },
+  {
+    "id": 19,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "数码相框",
+    "category1Id": 4
+  },
+  {
+    "id": 20,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "单反",
+    "category1Id": 4
+  },
+  {
+    "id": 21,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "家纺",
+    "category1Id": 5
+  },
+  {
+    "id": 22,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "灯具",
+    "category1Id": 5
+  },
+  {
+    "id": 23,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "生活日用",
+    "category1Id": 5
+  },
+  {
+    "id": 24,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "家装软饰",
+    "category1Id": 5
+  },
+  {
+    "id": 25,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "笔记本",
+    "category1Id": 6
+  },
+  {
+    "id": 26,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "台式机",
+    "category1Id": 6
+  },
+  {
+    "id": 27,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "平板电脑",
+    "category1Id": 6
+  },
+  {
+    "id": 28,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "办公设备",
+    "category1Id": 6
+  },
+  {
+    "id": 29,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "烹饪锅具",
+    "category1Id": 7
+  },
+  {
+    "id": 30,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "刀剪菜板",
+    "category1Id": 7
+  },
+  {
+    "id": 31,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "厨房配件",
+    "category1Id": 7
+  },
+  {
+    "id": 32,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "水具酒具",
+    "category1Id": 7
+  },
+  {
+    "id": 33,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "面部护肤",
+    "category1Id": 8
+  },
+  {
+    "id": 34,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "身体护理",
+    "category1Id": 8
+  },
+  {
+    "id": 35,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "口腔护理",
+    "category1Id": 8
+  },
+  {
+    "id": 36,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "香水彩妆",
+    "category1Id": 8
+  },
+  {
+    "id": 37,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "男装",
+    "category1Id": 9
+  },
+  {
+    "id": 38,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "女装",
+    "category1Id": 9
+  },
+  {
+    "id": 39,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "内衣",
+    "category1Id": 9
+  },
+  {
+    "id": 40,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "袜子",
+    "category1Id": 9
+  },
+  {
+    "id": 41,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "瑞士表",
+    "category1Id": 10
+  },
+  {
+    "id": 42,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "国表",
+    "category1Id": 10
+  },
+  {
+    "id": 43,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "日韩表",
+    "category1Id": 10
+  },
+  {
+    "id": 44,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "欧美表",
+    "category1Id": 10
+  },
+  {
+    "id": 45,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "休闲鞋",
+    "category1Id": 11
+  },
+  {
+    "id": 46,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "商务鞋",
+    "category1Id": 11
+  },
+  {
+    "id": 47,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "正装鞋",
+    "category1Id": 11
+  },
+  {
+    "id": 48,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "拖鞋",
+    "category1Id": 11
+  },
+  {
+    "id": 49,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "奶粉",
+    "category1Id": 12
+  },
+  {
+    "id": 50,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "纸尿裤",
+    "category1Id": 12
+  },
+  {
+    "id": 51,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "洗护用品",
+    "category1Id": 12
+  },
+  {
+    "id": 52,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "童车童床",
+    "category1Id": 12
+  },
+  {
+    "id": 53,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "钱包",
+    "category1Id": 13
+  },
+  {
+    "id": 54,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "手提包",
+    "category1Id": 13
+  },
+  {
+    "id": 55,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "双肩包",
+    "category1Id": 13
+  },
+  {
+    "id": 56,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "单肩包",
+    "category1Id": 13
+  },
+  {
+    "id": 57,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "白酒",
+    "category1Id": 14
+  },
+  {
+    "id": 58,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "葡萄酒",
+    "category1Id": 14
+  },
+  {
+    "id": 59,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "饮料",
+    "category1Id": 14
+  },
+  {
+    "id": 60,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "茶叶",
+    "category1Id": 14
+  },
+  {
+    "id": 61,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "黄金",
+    "category1Id": 15
+  },
+  {
+    "id": 62,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "K金",
+    "category1Id": 15
+  },
+  {
+    "id": 63,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "钻石",
+    "category1Id": 15
+  },
+  {
+    "id": 64,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "玉石",
+    "category1Id": 15
+  },
+  {
+    "id": 65,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "车载电器",
+    "category1Id": 16
+  },
+  {
+    "id": 66,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "车身装饰",
+    "category1Id": 16
+  },
+  {
+    "id": 67,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "维修保养",
+    "category1Id": 16
+  },
+  {
+    "id": 68,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "清洁用品",
+    "category1Id": 16
+  },
+  {
+    "id": 69,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "跑步机",
+    "category1Id": 17
+  },
+  {
+    "id": 70,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "健身车",
+    "category1Id": 17
+  },
+  {
+    "id": 71,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "瑜伽用品",
+    "category1Id": 17
+  },
+  {
+    "id": 72,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "运动护具",
+    "category1Id": 17
+  },
+  {
+    "id": 73,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "测试子分类1",
+    "category1Id": 18
+  },
+  {
+    "id": 74,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "测试子分类2",
+    "category1Id": 18
+  },
+  {
+    "id": 75,
+    "createTime": "2025-05-11T13:09:38.665Z",
+    "updateTime": null,
+    "name": "测试子分类3",
+    "category1Id": 18
+  }
+]

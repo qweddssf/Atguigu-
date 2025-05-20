@@ -1,0 +1,121 @@
+[
+  {
+    "id": 0,
+    "roleName": "超级管理员",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 1,
+    "roleName": "前台",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 2,
+    "roleName": "运营",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 3,
+    "roleName": "产品",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 4,
+    "roleName": "前端",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 5,
+    "roleName": "后端",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 6,
+    "roleName": "测试",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 7,
+    "roleName": "财务",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 8,
+    "roleName": "运维",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 9,
+    "roleName": "销售",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 10,
+    "roleName": "程序励师",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 11,
+    "roleName": "平台理员",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 12,
+    "roleName": "系统理员",
+    "createTime": "2022-01-01T00: 00: 00Z",
+    "updateTime": "2022-01-01T00: 00: 00Z",
+    "remark": null
+  },
+  {
+    "id": 13,
+    "roleName": "UI设计师",
+    "createTime": "2025-05-16T08:32:36.837Z",
+    "updateTime": "2025-05-16T08:33:18.717Z",
+    "remark": null
+  },
+  {
+    "id": 15,
+    "roleName": "ikun真癌粉",
+    "createTime": "2025-05-16T08:37:55.875Z",
+    "updateTime": "2025-05-16T08:38:30.941Z",
+    "remark": null
+  },
+  {
+    "id": 16,
+    "roleName": "架构师A",
+    "createTime": "2025-05-16T08:38:12.904Z",
+    "updateTime": "2025-05-16T08:38:37.197Z",
+    "remark": null
+  },
+  {
+    "id": 17,
+    "roleName": "飞行员1号",
+    "createTime": "2025-05-18T07:42:31.926Z",
+    "updateTime": "2025-05-18T07:42:47.018Z",
+    "remark": null
+  }
+]
