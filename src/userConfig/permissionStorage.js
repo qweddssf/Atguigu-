@@ -18,8 +18,7 @@ async function getPermissionsByRoleId(roleId) {
     function processPermissions(nodes) {
         return nodes.map(node => {
             // 检查当前权限ID是否在角色权限数组中
-            const isSelected = rolePermissionIds.includes(node.id);
-
+            const isSelected = rolePermissionIds.includes(parseInt(node.id));
             return {
                 ...node,
                 select: isSelected,
